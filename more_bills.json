@@ -1,0 +1,84 @@
+[
+    {
+        "BillID": 1,
+        "Date": "2023-12-18",
+        "TotalPrice": 39,
+        "Meals": [
+            {
+                "Proizvod": "Hamburger",
+                "Cijena": 9,
+				"Kolicina" : 3,
+                "Ingredients": [
+                    { "name": "Pecivo", "quantity": 1 },
+                    { "name": "Juneca pljeskavica", "quantity": 200 },
+                    { "name": "Salata", "quantity": 50 }
+                ]
+            },
+            {
+                "Proizvod": "Cheesburger",
+                "Cijena": 12,
+				"Kolicina" : 1,
+                "Ingredients": [
+                    { "name": "Pecivo", "quantity": 1 },
+                    { "name": "Juneca pljeskavica", "quantity": 200 },
+                    { "name": "Salata", "quantity": 50 },
+                    { "name": "Sir", "quantity": 30 }
+                ]
+            }
+        ]
+    },
+    {
+        "BillID": 2,
+        "Date": "2023-12-19",
+        "TotalPrice": 35,
+        "Meals": [
+            {
+                "Proizvod": "Pizza Margherita",
+                "Cijena": 15,
+				"Kolicina" : 1,
+                "Ingredients": [
+                    { "name": "Tijesto", "quantity": 250 },
+                    { "name": "Rajcica umak", "quantity": 100 },
+                    { "name": "Sir", "quantity": 50 }
+                ]
+            },
+            {
+                "Proizvod": "Tiramisu",
+                "Cijena": 10,
+				"Kolicina" : 2,
+                "Ingredients": [
+                    { "name": "Piskote", "quantity": 150 },
+                    { "name": "Mascarpone", "quantity": 100 },
+                    { "name": "Vrhnje za slag", "quantity": 100 }
+                ]
+            }
+        ]
+    },
+	{
+        "BillID": 3,
+        "Date": "2023-12-19",
+        "TotalPrice": 25,
+        "Meals": [
+            {
+                "Proizvod": "Pizza Margherita",
+                "Cijena": 15,
+				"Kolicina" : 1,
+                "Ingredients": [
+                    { "name": "Tijesto", "quantity": 250 },
+                    { "name": "Rajcica umak", "quantity": 100 },
+                    { "name": "Sir", "quantity": 50 }
+                ]
+            },
+            {
+                "Proizvod": "Tiramisu",
+                "Cijena": 10,
+				"Kolicina" : 1,
+                "Ingredients": [
+                    { "name": "Piskote", "quantity": 150 },
+                    { "name": "Mascarpone", "quantity": 100 },
+                    { "name": "Vrhnje za slag", "quantity": 100 }
+                ]
+            }
+        ]
+    }
+]
