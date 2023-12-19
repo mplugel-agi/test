@@ -84,7 +84,7 @@
         "Ingredients": [
             { "name": "Piskote", "quantity": 100 },
             { "name": "Mascarpone", "quantity": 150 },
-            { "name": "Vrhnje za slag""quantity": 100 }
+            { "name": "Vrhnje za slag", "quantity": 100 }
         ]
     }
 ]
