@@ -2,7 +2,7 @@
     {
         "BillID": 1,
         "Date": "2023-12-18",
-        "TotalPrice": 39,
+        "TotalPrice": 21,
         "Meals": [
             {
                 "Proizvod": "Hamburger",
@@ -30,7 +30,7 @@
     {
         "BillID": 2,
         "Date": "2023-12-19",
-        "TotalPrice": 35,
+        "TotalPrice": 50,
         "Meals": [
             {
                 "Proizvod": "Pizza Margherita",
