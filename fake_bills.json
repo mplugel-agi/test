@@ -29,11 +29,11 @@
         "Ingredients": [
             {
                 "name": "Tijesto",
-                "quantity": 300
+                "quantity": 400
             },
             {
                 "name": "Rajcica umak",
-                "quantity": 100
+                "quantity": 150
             },
             {
                 "name": "Kulenova seka",
@@ -41,11 +41,11 @@
             },
             {
                 "name": "Feferoni",
-                "quantity": 20
+                "quantity": 50
             },
             {
                 "name": "Vrhnje",
-                "quantity": 50
+                "quantity": 80
             }
         ]
     },
@@ -83,11 +83,11 @@
         "Ingredients": [
             {
                 "name": "Tijesto",
-                "quantity": 300
+                "quantity": 500
             },
             {
                 "name": "Rajcica umak",
-                "quantity": 100
+                "quantity": 200
             },
             {
                 "name": "Sunka",
@@ -95,11 +95,11 @@
             },
             {
                 "name": "Sampinjoni",
-                "quantity": 20
+                "quantity": 100
             },
             {
                 "name": "Rikola",
-                "quantity": 50
+                "quantity": 100
             }
         ]
     },
@@ -124,7 +124,7 @@
         "Proizvod": "Steak",
         "Ingredients": [
             {
-                "name": "Ribeye steam",
+                "name": "Ribeye steak",
                 "quantity": 250
             },
             {
