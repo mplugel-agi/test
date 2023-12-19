@@ -4,7 +4,7 @@
         "Datum": 18122023,
         "Cijena": 9,
         "Kolicina": 1,
-        "Proizvod": "Hamburger"
+        "Proizvod": "Hamburger",
         "Ingredients": ["Pecivo", "Juneca pljeskavica", "Salata"]
 
     },
@@ -13,7 +13,7 @@
         "Datum": 18122023,
         "Cijena": 12,
         "Kolicina": 2,
-        "Proizvod": "Pizza Slavonska"
+        "Proizvod": "Pizza Slavonska",
         "Ingredients": ["Tijesto", "Rajcica umak", "Kulenova seka", "Feferoni", "Vrhnje"]
     },
     {
@@ -21,7 +21,7 @@
         "Datum": 18122023,
         "Cijena": 11,
         "Kolicina": 1,
-        "Proizvod": "Cheesburger"
+        "Proizvod": "Cheesburger",
         "Ingredients": ["Pecivo", "Juneca pljeskavica", "Salata", "Sir"]
     },
     {
@@ -29,7 +29,7 @@
         "Datum": 18122023,
         "Cijena": 10,
         "Kolicina": 1,
-        "Proizvod": "Napolitana"
+        "Proizvod": "Napolitana",
         "Ingredients": ["Tijesto", "Rajcica umak", "Sunka", "Sampinjoni", "Rikola"]
 
     },
@@ -38,7 +38,7 @@
         "Datum": 18122023,
         "Cijena": 3,
         "Kolicina": 1,
-        "Proizvod": "Coca Cola"
+        "Proizvod": "Coca Cola",
         "Ingredients": []
     },
     {
@@ -46,7 +46,7 @@
         "Datum": 18122023,
         "Cijena": 18,
         "Kolicina": 1,
-        "Proizvod": "Steak"
+        "Proizvod": "Steak",
         "Ingredients": ["Ribeye steak", "Umak", "Krumpir"]
     },
     {
@@ -54,7 +54,7 @@
         "Datum": 18122023,
         "Cijena": 6,
         "Kolicina": 1,
-        "Proizvod": "Tiramisu"
+        "Proizvod": "Tiramisu",
         "Ingredients": ["Piskote", "Mascarpone", "Vrhnje za slag"]
     }
 ]
