@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "Datum": 18.12.2023,
+        "Cijena": 9,
+        "Kolicina": 1,
+        "Proizvod": "Hamburger"
+    },
+    {
+        "id": 2,
+        "Datum": 18.12.2023,
+        "Cijena": 12,
+        "Kolicina": 2,
+        "Proizvod": "Pizza Slavonska"
+    },
+    {
+        "id": 3,
+        "Datum": 18.12.2023,
+        "Cijena": 11,
+        "Kolicina": 1,
+        "Proizvod": "Cheesburger"
+    },
+    {
+        "id": 4,
+        "Datum": 18.12.2023,
+        "Cijena": 10,
+        "Kolicina": 1,
+        "Proizvod": "Napolitana"
+    },
+    {
+        "id": 5,
+        "Datum": 18.12.2023,
+        "Cijena": 745,
+        "Kolicina": 1,
+        "Proizvod": "Coca Cola"
+    },
+    {
+        "id": 6,
+        "Datum": 18.12.2023,
+        "Cijena": 18,
+        "Kolicina": 1,
+        "Proizvod": "Steak"
+    },
+    {
+        "id": 7,
+        "Datum": 18.12.2023,
+        "Cijena": 6,
+        "Kolicina": 1,
+        "Proizvod": "Tiramisu"
+    }
+]
