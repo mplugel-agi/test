@@ -7,7 +7,7 @@
             {
                 "Proizvod": "Hamburger",
                 "Cijena": 9,
-		"Kolicina" : 3,
+		"Kolicina" : 1,
                 "Ingredients": [
                     { "name": "Pecivo", "quantity": 1 },
                     { "name": "Juneca pljeskavica", "quantity": 200 },
