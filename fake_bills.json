@@ -6,9 +6,18 @@
         "Kolicina": 1,
         "Proizvod": "Hamburger",
         "Ingredients": [
-            { "name": "Pecivo", "quantity": 1 },
-            { "name": "Juneca pljeskavica", "quantity": 200 },
-            { "name": "Salata", "quantity": 50 }
+            {
+                "name": "Pecivo",
+                "quantity": 1
+            },
+            {
+                "name": "Juneca pljeskavica",
+                "quantity": 200
+            },
+            {
+                "name": "Salata",
+                "quantity": 50
+            }
         ]
     },
     {
@@ -18,11 +27,26 @@
         "Kolicina": 2,
         "Proizvod": "Pizza Slavonska",
         "Ingredients": [
-            { "name": "Tijesto", "quantity": 300 }, 
-            { "name": "Rajcica umak", "quantity": 100 }, 
-            { "name": "Kulenova seka", "quantity": 150 }, 
-            { "name": "Feferoni", "quantity": 20 }, 
-            { "name": "Vrhnje", "quantity": 50 } 
+            {
+                "name": "Tijesto",
+                "quantity": 300
+            },
+            {
+                "name": "Rajcica umak",
+                "quantity": 100
+            },
+            {
+                "name": "Kulenova seka",
+                "quantity": 150
+            },
+            {
+                "name": "Feferoni",
+                "quantity": 20
+            },
+            {
+                "name": "Vrhnje",
+                "quantity": 50
+            }
         ]
     },
     {
@@ -32,10 +56,22 @@
         "Kolicina": 1,
         "Proizvod": "Cheesburger",
         "Ingredients": [
-            { "name": "Pecivo", "quantity": 1 },
-            { "name": "Juneca pljeskavica", "quantity": 200 },
-            { "name": "Salata", "quantity": 50 },
-            { "name": "Sir", "quantity": 50 }
+            {
+                "name": "Pecivo",
+                "quantity": 1
+            },
+            {
+                "name": "Juneca pljeskavica",
+                "quantity": 200
+            },
+            {
+                "name": "Salata",
+                "quantity": 50
+            },
+            {
+                "name": "Sir",
+                "quantity": 50
+            }
         ]
     },
     {
@@ -44,14 +80,28 @@
         "Cijena": 10,
         "Kolicina": 1,
         "Proizvod": "Napolitana",
-        "Ingredients":  [
-            { "name": "Tijesto", "quantity": 300 }, 
-            { "name": "Rajcica umak", "quantity": 100 }, 
-            { "name": "Sunka", "quantity": 150 }, 
-            { "name": "Sampinjoni", "quantity": 20 }, 
-            { "name": "Rikola", "quantity": 50 } 
+        "Ingredients": [
+            {
+                "name": "Tijesto",
+                "quantity": 300
+            },
+            {
+                "name": "Rajcica umak",
+                "quantity": 100
+            },
+            {
+                "name": "Sunka",
+                "quantity": 150
+            },
+            {
+                "name": "Sampinjoni",
+                "quantity": 20
+            },
+            {
+                "name": "Rikola",
+                "quantity": 50
+            }
         ]
-
     },
     {
         "id": 5,
@@ -60,7 +110,10 @@
         "Kolicina": 1,
         "Proizvod": "Coca Cola",
         "Ingredients": [
-            { "name": "Coca Cola", "quantity": 1}
+            {
+                "name": "Coca Cola",
+                "quantity": 1
+            }
         ]
     },
     {
@@ -70,9 +123,18 @@
         "Kolicina": 1,
         "Proizvod": "Steak",
         "Ingredients": [
-            { "name": "Ribeye steam", "quantity": 250 },
-            { "name": "Umak", "quantity": 50 },
-            { "name": "Krumpir", "quantity": 200 }
+            {
+                "name": "Ribeye steam",
+                "quantity": 250
+            },
+            {
+                "name": "Umak",
+                "quantity": 50
+            },
+            {
+                "name": "Krumpir",
+                "quantity": 200
+            }
         ]
     },
     {
@@ -82,9 +144,18 @@
         "Kolicina": 1,
         "Proizvod": "Tiramisu",
         "Ingredients": [
-            { "name": "Piskote", "quantity": 100 },
-            { "name": "Mascarpone", "quantity": 150 },
-            { "name": "Vrhnje za slag", "quantity": 100 }
+            {
+                "name": "Piskote",
+                "quantity": 100
+            },
+            {
+                "name": "Mascarpone",
+                "quantity": 150
+            },
+            {
+                "name": "Vrhnje za slag",
+                "quantity": 100
+            }
         ]
     }
 ]
