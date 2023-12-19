@@ -6,7 +6,6 @@
         "Kolicina": 1,
         "Proizvod": "Hamburger",
         "Ingredients": ["Pecivo", "Juneca pljeskavica", "Salata"]
-
     },
     {
         "id": 2,
