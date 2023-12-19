@@ -7,7 +7,7 @@
             {
                 "Proizvod": "Hamburger",
                 "Cijena": 9,
-				"Kolicina" : 3,
+		"Kolicina" : 3,
                 "Ingredients": [
                     { "name": "Pecivo", "quantity": 1 },
                     { "name": "Juneca pljeskavica", "quantity": 200 },
@@ -17,7 +17,7 @@
             {
                 "Proizvod": "Cheesburger",
                 "Cijena": 12,
-				"Kolicina" : 1,
+		"Kolicina" : 1,
                 "Ingredients": [
                     { "name": "Pecivo", "quantity": 1 },
                     { "name": "Juneca pljeskavica", "quantity": 200 },
@@ -35,7 +35,7 @@
             {
                 "Proizvod": "Pizza Margherita",
                 "Cijena": 15,
-				"Kolicina" : 1,
+		"Kolicina" : 1,
                 "Ingredients": [
                     { "name": "Tijesto", "quantity": 250 },
                     { "name": "Rajcica umak", "quantity": 100 },
@@ -45,7 +45,7 @@
             {
                 "Proizvod": "Tiramisu",
                 "Cijena": 10,
-				"Kolicina" : 2,
+		"Kolicina" : 2,
                 "Ingredients": [
                     { "name": "Piskote", "quantity": 150 },
                     { "name": "Mascarpone", "quantity": 100 },
@@ -62,7 +62,7 @@
             {
                 "Proizvod": "Pizza Margherita",
                 "Cijena": 15,
-				"Kolicina" : 1,
+		"Kolicina" : 1,
                 "Ingredients": [
                     { "name": "Tijesto", "quantity": 250 },
                     { "name": "Rajcica umak", "quantity": 100 },
@@ -72,7 +72,7 @@
             {
                 "Proizvod": "Tiramisu",
                 "Cijena": 10,
-				"Kolicina" : 1,
+		"Kolicina" : 1,
                 "Ingredients": [
                     { "name": "Piskote", "quantity": 150 },
                     { "name": "Mascarpone", "quantity": 100 },
