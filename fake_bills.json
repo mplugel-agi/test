@@ -5,6 +5,8 @@
         "Cijena": 9,
         "Kolicina": 1,
         "Proizvod": "Hamburger"
+        "Ingredients": ["Pecivo", "Juneca pljeskavica", "Salata"]
+
     },
     {
         "id": 2,
@@ -12,6 +14,7 @@
         "Cijena": 12,
         "Kolicina": 2,
         "Proizvod": "Pizza Slavonska"
+        "Ingredients": ["Tijesto", "Rajcica umak", "Kulenova seka", "Feferoni", "Vrhnje"]
     },
     {
         "id": 3,
@@ -19,6 +22,7 @@
         "Cijena": 11,
         "Kolicina": 1,
         "Proizvod": "Cheesburger"
+        "Ingredients": ["Pecivo", "Juneca pljeskavica", "Salata", "Sir"]
     },
     {
         "id": 4,
@@ -26,6 +30,8 @@
         "Cijena": 10,
         "Kolicina": 1,
         "Proizvod": "Napolitana"
+        "Ingredients": ["Tijesto", "Rajcica umak", "Sunka", "Sampinjoni", "Rikola"]
+
     },
     {
         "id": 5,
@@ -33,6 +39,7 @@
         "Cijena": 3,
         "Kolicina": 1,
         "Proizvod": "Coca Cola"
+        "Ingredients": []
     },
     {
         "id": 6,
@@ -40,6 +47,7 @@
         "Cijena": 18,
         "Kolicina": 1,
         "Proizvod": "Steak"
+        "Ingredients": ["Ribeye steak", "Umak", "Krumpir"]
     },
     {
         "id": 7,
@@ -47,5 +55,6 @@
         "Cijena": 6,
         "Kolicina": 1,
         "Proizvod": "Tiramisu"
+        "Ingredients": ["Piskote", "Mascarpone", "Vrhnje za slag"]
     }
 ]
