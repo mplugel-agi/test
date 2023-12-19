@@ -39,7 +39,7 @@
         "Cijena": 3,
         "Kolicina": 1,
         "Proizvod": "Coca Cola",
-        "Ingredients": []
+        "Ingredients": ["Coca Cola"]
     },
     {
         "id": 6,
