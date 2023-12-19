@@ -35,7 +35,7 @@
             {
                 "Proizvod": "Pizza Margherita",
                 "Cijena": 15,
-		"Kolicina" : 1,
+		"Kolicina" : 2,
                 "Ingredients": [
                     { "name": "Tijesto", "quantity": 250 },
                     { "name": "Rajcica umak", "quantity": 100 },
